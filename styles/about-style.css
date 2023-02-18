@@ -1,0 +1,5 @@
+.sobre-mim {
+    padding: 5% 15%;
+    display: flex;
+    flex-direction: column;
+}

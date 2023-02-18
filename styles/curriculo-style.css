@@ -1,0 +1,68 @@
+.apresentacao-eric-curriculo {
+    padding: 5% 15%;
+}
+
+.apresentacao-nome {
+    font-family: 'Krona One', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: #22D4FD;
+}
+
+.apresentacao-eric {
+    font-family:'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 90px;
+}
+
+.apresentacao-curriculo {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 60%;
+    
+}
+
+
+
+#foto-div {
+    align-self: flex-end;
+}
+
+#foto-curriculo {
+    width: 30%;
+    border-radius: 50%;
+    
+}
+
+.apresentacao-fdp {
+    width: 40%;
+
+}
+
+
+
+
+
+.apresentacao-conteudo-eric {
+    font-family:'Montserrat', sans-serif ;
+    font-weight: 600;
+    font-size: 30px;
+   
+}
+
+
+
+
+.atributos {
+    font-family:'Montserrat', sans-serif ;
+    font-weight: 100;
+    font-size: 20px;
+}
